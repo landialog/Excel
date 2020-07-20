@@ -14,3 +14,10 @@ Production
 0--------
 Development
 1.0.1
+
+
+
+Master
+-----
+     -------
+     Создание новой ветки "Webpack" (git checkout -b "webpack")
