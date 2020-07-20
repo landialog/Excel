@@ -21,3 +21,8 @@ Master
 -----
      -------
      Создание новой ветки "Webpack" (git checkout -b "webpack")
+     git add .
+     git commit -m "Create webpack config"
+     Необходимо закинуть ветку на github
+     git push (если выскакивает ошибка, что не может закинуть ветку, след.команда)
+     git push -u origin webpack  (сохранение ветки на github)
